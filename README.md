@@ -27,6 +27,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Falmouth Packet: [Cornwall Council had advertising cookies on website](https://www.falmouthpacket.co.uk/news/18215315.cornwall-council-advertising-cookies-website/) *6 February 2020*
 * Cornwall Live: [Cornwall Council accused of sharing people's data without their consent](https://www.cornwalllive.com/news/cornwall-news/cornwall-council-shared-peoples-data-3815273) *6 February 2020*
 * Bristol Live: [Councils defend use of advertising cookies targeting people seeking benefits advice](https://www.bristolpost.co.uk/news/bristol-news/councils-defend-use-advertising-cookies-3818102) *6 February 2020*
+* Wigan Today: [Wigan Council remove cookies taken from website](https://www.wigantoday.net/news/people/wigan-council-remove-cookies-taken-from-website-1-10244091) *7 February 2020*
 
 
 The story was also used by BBC Radio Sheffield. 
