@@ -12,7 +12,7 @@ This found:
 - More than two-thirds of councils did not appear to ask for the correct form of consent under privacy laws
 - Examples of targeted adverts on benefits pages seen by the BBC included high-interest credit cards, Black Friday deals, sports cars with features for disabled people and private funeral care plans
 
-The Information Commissioner's Office (ICO) said it would assess the findings, which showed the majority of councils did not use the correct form of consent under privacy laws.
+The Information Commissioner's Office (ICO) said it would assess the findings.
 
 The advertising industry denied using data from vulnerable residents.
 
