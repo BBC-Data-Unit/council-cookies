@@ -26,6 +26,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Daventry Express: [Revealed: Northampton, South Northants councils allow advertisers to gather residents' data without their consent](https://www.daventryexpress.co.uk/news/politics/revealed-northampton-south-northants-councils-allow-advertisers-to-gather-residents-data-without-their-consent-1-9225602) *6 February 2020*
 * Falmouth Packet: [Cornwall Council had advertising cookies on website](https://www.falmouthpacket.co.uk/news/18215315.cornwall-council-advertising-cookies-website/) *6 February 2020*
 * Cornwall Live: [Cornwall Council accused of sharing people's data without their consent](https://www.cornwalllive.com/news/cornwall-news/cornwall-council-shared-peoples-data-3815273) *6 February 2020*
+* Bristol Live: [Councils defend use of advertising cookies targeting people seeking benefits advice](https://www.bristolpost.co.uk/news/bristol-news/councils-defend-use-advertising-cookies-3818102) *6 February 2020*
+
 
 The story was also used by BBC Radio Sheffield. 
 
