@@ -22,13 +22,16 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Cornish Stuff: [Cookies on Council Benefits Pages](https://cornishstuff.com/2020/02/05/cookies-on-council-benefits-pages/) *5 February 2020*
 * The Scotsman: [Scottish council websites sharing residents’ data via advertising cookies](https://www.scotsman.com/news/politics/scottish-council-websites-sharing-residents-data-via-advertising-cookies-1-5086326) *5 February 2020*
+* Gedling Eye: [Gedling Borough Council say they don’t let advertising firms track residents using their website for benefits advice](https://www.gedlingeye.co.uk/news/gedling-borough-council-say-they-dont-let-advertising-firms-track-residents-using-their-website-for-benefits-advice/) *5 February 2020*
+* MKFM: [MK Council gets thumbs up for online consent in national research](https://www.mkfm.com/news/local-news/2-3-of-councils-do-not-ask-for-correct-form-of-online-consent-but-mk-council-do/) *5 February 2020*
 * West Sussex County Times: [Local council websites have been sharing your data with third party companies](https://www.wscountytimes.co.uk/news/read-this/local-council-websites-have-been-sharing-your-data-third-party-companies-1388028) *6 February 2020*
 * Daventry Express: [Revealed: Northampton, South Northants councils allow advertisers to gather residents' data without their consent](https://www.daventryexpress.co.uk/news/politics/revealed-northampton-south-northants-councils-allow-advertisers-to-gather-residents-data-without-their-consent-1-9225602) *6 February 2020*
 * Falmouth Packet: [Cornwall Council had advertising cookies on website](https://www.falmouthpacket.co.uk/news/18215315.cornwall-council-advertising-cookies-website/) *6 February 2020*
 * Cornwall Live: [Cornwall Council accused of sharing people's data without their consent](https://www.cornwalllive.com/news/cornwall-news/cornwall-council-shared-peoples-data-3815273) *6 February 2020*
 * Bristol Live: [Councils defend use of advertising cookies targeting people seeking benefits advice](https://www.bristolpost.co.uk/news/bristol-news/councils-defend-use-advertising-cookies-3818102) *6 February 2020*
+* Southern Reporter: [Local council websites have been sharing your data with third party companies](https://www.thesouthernreporter.co.uk/news/read-this/local-council-websites-have-been-sharing-your-data-third-party-companies-1388028) *6 February 2020* 
 * Wigan Today: [Wigan Council remove cookies taken from website](https://www.wigantoday.net/news/people/wigan-council-remove-cookies-taken-from-website-1-10244091) *7 February 2020*
-
+* Devon Live: [Investigation finds Torbay council targeting online ads at people seeking benefits advice](https://www.devonlive.com/news/devon-news/investigation-finds-torbay-council-targeting-3820898) *7 February 2020*
 
 The story was also used by BBC Radio Sheffield. 
 
