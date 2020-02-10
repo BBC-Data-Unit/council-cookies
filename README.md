@@ -38,7 +38,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Epping Forest Guardian: [Essex County Council website sharing data with profilers](https://www.eppingforestguardian.co.uk/news/18219975.essex-county-council-website-sharing-data-profilers/) *7 February 2020*
 * News & Star: [Councils' cookie policy crumbles](https://www.newsandstar.co.uk/news/18220307.councils-cookie-policy-crumbles/) *10 February 2020*
 
-The story was also used by BBC Radio Sheffield. 
+The story was also used by BBC Radio Sheffield, BBC Radio Derby and BBC Radio Cornwall.
 
 ## Here is the data 
 
