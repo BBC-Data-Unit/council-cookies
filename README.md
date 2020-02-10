@@ -37,6 +37,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Devon Live: [Investigation finds Torbay council targeting online ads at people seeking benefits advice](https://www.devonlive.com/news/devon-news/investigation-finds-torbay-council-targeting-3820898) *7 February 2020*
 * Epping Forest Guardian: [Essex County Council website sharing data with profilers](https://www.eppingforestguardian.co.uk/news/18219975.essex-county-council-website-sharing-data-profilers/) *7 February 2020*
 * News & Star: [Councils' cookie policy crumbles](https://www.newsandstar.co.uk/news/18220307.councils-cookie-policy-crumbles/) *10 February 2020*
+* Halesowen News: [Council website found to host advertising cookies on benefits pages](https://www.halesowennews.co.uk/news/blackcountry/18223810.council-website-found-host-advertising-cookies-benefits-pages/) *10 February 2020*
 
 The story was also used by BBC Radio Sheffield, BBC Radio Derby and BBC Radio Cornwall.
 
