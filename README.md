@@ -32,6 +32,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Southern Reporter: [Local council websites have been sharing your data with third party companies](https://www.thesouthernreporter.co.uk/news/read-this/local-council-websites-have-been-sharing-your-data-third-party-companies-1388028) *6 February 2020* 
 * Wigan Today: [Wigan Council remove cookies taken from website](https://www.wigantoday.net/news/people/wigan-council-remove-cookies-taken-from-website-1-10244091) *7 February 2020*
 * Devon Live: [Investigation finds Torbay council targeting online ads at people seeking benefits advice](https://www.devonlive.com/news/devon-news/investigation-finds-torbay-council-targeting-3820898) *7 February 2020*
+* News & Star: [Councils' cookie policy crumbles](https://www.newsandstar.co.uk/news/18220307.councils-cookie-policy-crumbles/) *10 February 2020*
 
 The story was also used by BBC Radio Sheffield. 
 
