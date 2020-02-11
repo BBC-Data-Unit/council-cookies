@@ -41,6 +41,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * North West Evening Mail: [Councils' cookie policy crumbles](https://www.nwemail.co.uk/news/18220308.councils-cookie-policy-crumbles/) *10 February 2020* 
 * Worcester News: [Council website found to host advertising cookies on benefits pages](https://www.worcesternews.co.uk/news/regional/18223813.council-website-found-host-advertising-cookies-benefits-pages/) *11 February 2020*
 * Malvern Gazette: [Council website found to host advertising cookies on benefits pages](https://www.malverngazette.co.uk/news/regional/18223813.council-website-found-host-advertising-cookies-benefits-pages/) *11 February 2020*
+* Ilford Recorder: [Visitors to council benefits pages targeted by funeral ads](https://www.ilfordrecorder.co.uk/news/redbridge-council-website-advertising-cookies-1-6503937) *11 February 2020*
 
 The story was also used by BBC Radio Sheffield, BBC Radio Derby and BBC Radio Cornwall.
 
