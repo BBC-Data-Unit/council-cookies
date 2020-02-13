@@ -43,6 +43,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Malvern Gazette: [Council website found to host advertising cookies on benefits pages](https://www.malverngazette.co.uk/news/regional/18223813.council-website-found-host-advertising-cookies-benefits-pages/) *11 February 2020*
 * Ilford Recorder: [Visitors to council benefits pages targeted by funeral ads](https://www.ilfordrecorder.co.uk/news/redbridge-council-website-advertising-cookies-1-6503937) *11 February 2020*
 * St Helens Star: [St Helens Council to review cookie consent following BBC investigation](https://www.sthelensstar.co.uk/news/18227640.st-helens-council-review-cookie-consent-following-investigation/) *11 February 2020*
+* Northern Echo: [Tracking on council sites: how your data is shared with third parties](https://www.thenorthernecho.co.uk/news/18230746.tracking-council-sites-data-shared-third-parties/) *13 February 2020*
+* Wales: Free Press: [Advertising cookies found on council's benefits advice page](https://www.freepressseries.co.uk/news/18232252.advertising-cookies-found-councils-benefits-advice-page/) *13 February 2020*
+* St Helens: The Reporter: [St Helens Council to review cookie use on its website following BBC investigation](https://www.sthelensreporter.co.uk/news/politics/st-helens-council-to-review-cookie-use-on-its-website-following-bbc-investigation-1-10254346) *13 February 2020*
 
 The story was also used by BBC Radio Sheffield, BBC Radio Derby and BBC Radio Cornwall.
 
