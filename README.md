@@ -33,6 +33,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Leamington Spa: The Courier: [Local council websites have been sharing your data with third party companies](https://www.leamingtoncourier.co.uk/news/read-this/local-council-websites-have-been-sharing-your-data-third-party-companies-1388028) *6 February 2020*
 * Yorkshire Evening Post: [Councils are sharing your information with advertisers](https://www.yorkshireeveningpost.co.uk/news/politics/councils-are-sharing-your-information-advertisers-1386236) *6 February 2020*
 * Hemel Today: [Local council websites have been sharing your data with third party companies](https://www.hemeltoday.co.uk/news/read-this/local-council-websites-have-been-sharing-your-data-third-party-companies-1388028) *6 February 2020*
+* Portsmouth: The News: [Local council websites have been sharing your data with third party companies](https://www.portsmouth.co.uk/news/read-this/local-council-websites-have-been-sharing-your-data-third-party-companies-1388028) *6 February 2020*
 * Wigan Today: [Wigan Council remove cookies taken from website](https://www.wigantoday.net/news/people/wigan-council-remove-cookies-taken-from-website-1-10244091) *7 February 2020*
 * Devon Live: [Investigation finds Torbay council targeting online ads at people seeking benefits advice](https://www.devonlive.com/news/devon-news/investigation-finds-torbay-council-targeting-3820898) *7 February 2020*
 * Epping Forest Guardian: [Essex County Council website sharing data with profilers](https://www.eppingforestguardian.co.uk/news/18219975.essex-county-council-website-sharing-data-profilers/) *7 February 2020*
@@ -46,6 +47,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Northern Echo: [Tracking on council sites: how your data is shared with third parties](https://www.thenorthernecho.co.uk/news/18230746.tracking-council-sites-data-shared-third-parties/) *13 February 2020*
 * Wales: Free Press: [Advertising cookies found on council's benefits advice page](https://www.freepressseries.co.uk/news/18232252.advertising-cookies-found-councils-benefits-advice-page/) *13 February 2020*
 * St Helens: The Reporter: [St Helens Council to review cookie use on its website following BBC investigation](https://www.sthelensreporter.co.uk/news/politics/st-helens-council-to-review-cookie-use-on-its-website-following-bbc-investigation-1-10254346) *13 February 2020*
+* The Westmorland Gazette: [Councils' cookie policy crumbles](https://www.thewestmorlandgazette.co.uk/news/18220311.councils-cookie-policy-crumbles/) *17 February 2020* 
 
 The story was also used by BBC Radio Sheffield, BBC Radio Derby, BBC Radio Cornwall and the BBC's [Politix and Chill podcast](https://www.bbc.co.uk/sounds/play/p0838lp9).
 
