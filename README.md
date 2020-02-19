@@ -48,6 +48,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Wales: Free Press: [Advertising cookies found on council's benefits advice page](https://www.freepressseries.co.uk/news/18232252.advertising-cookies-found-councils-benefits-advice-page/) *13 February 2020*
 * St Helens: The Reporter: [St Helens Council to review cookie use on its website following BBC investigation](https://www.sthelensreporter.co.uk/news/politics/st-helens-council-to-review-cookie-use-on-its-website-following-bbc-investigation-1-10254346) *13 February 2020*
 * The Westmorland Gazette: [Councils' cookie policy crumbles](https://www.thewestmorlandgazette.co.uk/news/18220311.councils-cookie-policy-crumbles/) *17 February 2020* 
+* Harrogate Advertiser: [Harrogate Council found to use third-party advertising cookies on website without asking for consent](https://www.harrogateadvertiser.co.uk/news/politics/council/harrogate-council-found-use-third-party-advertising-cookies-website-without-asking-consent-1743377) *17 February 2020*
 
 The story was also used by BBC Radio Sheffield, BBC Radio Derby, BBC Radio Cornwall and the BBC's [Politix and Chill podcast](https://www.bbc.co.uk/sounds/play/p0838lp9).
 
