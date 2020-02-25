@@ -39,6 +39,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Epping Forest Guardian: [Essex County Council website sharing data with profilers](https://www.eppingforestguardian.co.uk/news/18219975.essex-county-council-website-sharing-data-profilers/) *7 February 2020*
 * News & Star: [Councils' cookie policy crumbles](https://www.newsandstar.co.uk/news/18220307.councils-cookie-policy-crumbles/) *10 February 2020*
 * Halesowen News: [Council website found to host advertising cookies on benefits pages](https://www.halesowennews.co.uk/news/blackcountry/18223810.council-website-found-host-advertising-cookies-benefits-pages/) *10 February 2020*
+* Stourbridge News: [Council website found to host advertising cookies on benefits pages](https://www.stourbridgenews.co.uk/news/18223810.council-website-found-host-advertising-cookies-benefits-pages/) *10 February 2020*
 * North West Evening Mail: [Councils' cookie policy crumbles](https://www.nwemail.co.uk/news/18220308.councils-cookie-policy-crumbles/) *10 February 2020* 
 * Worcester News: [Council website found to host advertising cookies on benefits pages](https://www.worcesternews.co.uk/news/regional/18223813.council-website-found-host-advertising-cookies-benefits-pages/) *11 February 2020*
 * Malvern Gazette: [Council website found to host advertising cookies on benefits pages](https://www.malverngazette.co.uk/news/regional/18223813.council-website-found-host-advertising-cookies-benefits-pages/) *11 February 2020*
@@ -49,6 +50,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * St Helens: The Reporter: [St Helens Council to review cookie use on its website following BBC investigation](https://www.sthelensreporter.co.uk/news/politics/st-helens-council-to-review-cookie-use-on-its-website-following-bbc-investigation-1-10254346) *13 February 2020*
 * The Westmorland Gazette: [Councils' cookie policy crumbles](https://www.thewestmorlandgazette.co.uk/news/18220311.councils-cookie-policy-crumbles/) *17 February 2020* 
 * Harrogate Advertiser: [Harrogate Council found to use third-party advertising cookies on website without asking for consent](https://www.harrogateadvertiser.co.uk/news/politics/council/harrogate-council-found-use-third-party-advertising-cookies-website-without-asking-consent-1743377) *17 February 2020*
+* Scarborough News: [Third-party cookies found on Scarborough Council's website](https://www.thescarboroughnews.co.uk/news/politics/council/third-party-cookies-found-scarborough-councils-website-1884074) *19 February 2020*
+* Brighton Argus: [Worthing and Adur councils under fire over web tracking software](https://www.theargus.co.uk/news/18243632.worthing-adur-councils-fire-web-tracking-software/) *19 February 2020*
 
 The story was also used by BBC Radio Sheffield, BBC Radio Derby, BBC Radio Cornwall and the BBC's [Politix and Chill podcast](https://www.bbc.co.uk/sounds/play/p0838lp9).
 
