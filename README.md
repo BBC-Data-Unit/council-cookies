@@ -33,7 +33,6 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Leamington Spa: The Courier: [Local council websites have been sharing your data with third party companies](https://www.leamingtoncourier.co.uk/news/read-this/local-council-websites-have-been-sharing-your-data-third-party-companies-1388028) *6 February 2020*
 * Yorkshire Evening Post: [Councils are sharing your information with advertisers](https://www.yorkshireeveningpost.co.uk/news/politics/councils-are-sharing-your-information-advertisers-1386236) *6 February 2020*
 * Hemel Today: [Local council websites have been sharing your data with third party companies](https://www.hemeltoday.co.uk/news/read-this/local-council-websites-have-been-sharing-your-data-third-party-companies-1388028) *6 February 2020*
-* Portsmouth: The News: [Local council websites have been sharing your data with third party companies](https://www.portsmouth.co.uk/news/read-this/local-council-websites-have-been-sharing-your-data-third-party-companies-1388028) *6 February 2020*
 * Wigan Today: [Wigan Council remove cookies taken from website](https://www.wigantoday.net/news/people/wigan-council-remove-cookies-taken-from-website-1-10244091) *7 February 2020*
 * Devon Live: [Investigation finds Torbay council targeting online ads at people seeking benefits advice](https://www.devonlive.com/news/devon-news/investigation-finds-torbay-council-targeting-3820898) *7 February 2020*
 * Epping Forest Guardian: [Essex County Council website sharing data with profilers](https://www.eppingforestguardian.co.uk/news/18219975.essex-county-council-website-sharing-data-profilers/) *7 February 2020*
@@ -52,6 +51,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Harrogate Advertiser: [Harrogate Council found to use third-party advertising cookies on website without asking for consent](https://www.harrogateadvertiser.co.uk/news/politics/council/harrogate-council-found-use-third-party-advertising-cookies-website-without-asking-consent-1743377) *17 February 2020*
 * Scarborough News: [Third-party cookies found on Scarborough Council's website](https://www.thescarboroughnews.co.uk/news/politics/council/third-party-cookies-found-scarborough-councils-website-1884074) *19 February 2020*
 * Brighton Argus: [Worthing and Adur councils under fire over web tracking software](https://www.theargus.co.uk/news/18243632.worthing-adur-councils-fire-web-tracking-software/) *19 February 2020*
+* Portsmouth News: [Changes made to Hampshire council websites after potentially illegal advertising data is found](https://www.portsmouth.co.uk/news/politics/council/changes-made-hampshire-council-websites-after-potentially-illegal-advertising-data-found-1886590) *21 February 2020*
 
 The story was also used by BBC Radio Sheffield, BBC Radio Derby, BBC Radio Cornwall and the BBC's [Politix and Chill podcast](https://www.bbc.co.uk/sounds/play/p0838lp9).
 
