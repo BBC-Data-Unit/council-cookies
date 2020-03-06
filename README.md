@@ -55,6 +55,10 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 The story was also used by BBC Radio Sheffield, BBC Radio Derby, BBC Radio Cornwall and the BBC's [Politix and Chill podcast](https://www.bbc.co.uk/sounds/play/p0838lp9).
 
+## Visualisation
+
+* Bar chart: Percentage of UK councils' benefits pages with third-party advertising cookies (by nation)
+
 ## Here is the data 
 
 * [UK councils breakdown](https://docs.google.com/spreadsheets/d/1llYNMbTDhIJ8T7Qd8JhT9uz2sCWLJywB/edit?dls=true#gid=1131741814)
